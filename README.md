@@ -11,9 +11,9 @@
 
 ### 1. Clone repo
 
-### 2. Install MongoDB
+### 2. Install MongoDB Compass
 
-Download it from here: https://docs.mongodb.com/manual/administration/install-community/
+Connect to database URI: mongodb://localhost/amazona
 
 ### 3. Run Backend
 
@@ -45,4 +45,5 @@ $ npm start
 
 - Run http://localhost:3000/products
 - Click create product and enter product info
+- Hint: when you first run the project, some products won't have images. Just delete them and add your own
 

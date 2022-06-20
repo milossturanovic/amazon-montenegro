@@ -6,7 +6,6 @@
 - MongoDB: Mongoose, Aggregation
 - Development: ESLint, Babel, Git, Github,
 - Deployment: Heroku
-- Watch React & Node Tutorial
 
 ## Run Locally
 
